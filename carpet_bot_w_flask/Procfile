@@ -1,0 +1,3 @@
+worker: python main.py
+web: waitress-serve --port=$PORT updater.google_updater:app
+

@@ -1,0 +1,1 @@
+from .learning import ONLINE_CRS_DESC, MASTER_CLS_DESC
